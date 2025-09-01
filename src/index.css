@@ -184,10 +184,25 @@ All colors MUST be HSL.
 
   /* Smooth animations */
   .fade-in {
-    @apply animate-in fade-in duration-500;
+    @apply opacity-0 animate-pulse;
+    animation: fadeIn 0.5s ease-out forwards;
   }
   
   .slide-up {
-    @apply animate-in slide-in-from-bottom-4 duration-500;
+    @apply transform translate-y-4 opacity-0;
+    animation: slideUp 0.5s ease-out forwards;
+  }
+
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideUp {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
 }
