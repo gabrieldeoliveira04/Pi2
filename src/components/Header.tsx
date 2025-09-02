@@ -36,7 +36,7 @@ export const Header = ({ userType, userName, userAvatar }: HeaderProps) => {
             <GraduationCap className="h-6 w-6 text-white" />
           </div>
           <h1 className="text-xl font-bold bg-gradient-to-r from-primary to-primary-light bg-clip-text text-transparent">
-            EduPlatform
+            Pi2
           </h1>
         </div>
 
