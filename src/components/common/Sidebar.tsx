@@ -16,6 +16,7 @@ import { useState } from "react";
 
 interface SidebarProps {
   userType: 'student' | 'teacher';
+  className?: string;
 }
 
 export const Sidebar = ({ userType }: SidebarProps) => {
