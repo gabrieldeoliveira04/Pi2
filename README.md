@@ -1,73 +1,74 @@
-# Welcome to your Lovable project
+# Online Courses Platform
 
-## Project info
+Plataforma web de cursos online desenvolvida como projeto acadêmico, com foco na construção de interfaces modernas, organização de conteúdos educacionais e experiência do usuário.
 
-**URL**: https://lovable.dev/projects/4b393769-a175-4435-8637-2f8c195a19ea
+Atuei no desenvolvimento frontend da aplicação utilizando React e Vite, participando da estruturação da interface, componentes e fluxo de navegação da plataforma.
 
-## How can I edit this code?
+Durante a fase inicial do projeto, foi utilizado o Lovable como apoio na criação do primeiro esboço visual da aplicação, auxiliando na prototipação inicial da interface.
 
-There are several ways of editing your application.
+## Objetivo do Projeto
 
-**Use Lovable**
+O projeto foi desenvolvido com o objetivo de criar uma plataforma digital para disponibilização de cursos online, permitindo organização de conteúdos, navegação entre módulos e apresentação de informações educacionais de forma intuitiva.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4b393769-a175-4435-8637-2f8c195a19ea) and start prompting.
+Além do contexto acadêmico, o projeto também teve como foco a prática de desenvolvimento frontend moderno e construção de interfaces responsivas.
 
-Changes made via Lovable will be committed automatically to this repo.
+## Tecnologias Utilizadas
 
-**Use your preferred IDE**
+* React
+* Vite
+* JavaScript
+* HTML
+* CSS
+* Git/GitHub
+* Lovable
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Funcionalidades
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Plataforma de Cursos
 
-Follow these steps:
+* Visualização de cursos
+* Organização de conteúdos educacionais
+* Navegação entre páginas e módulos
+* Estruturação de catálogo de cursos
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Interface da Aplicação
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+* Interface responsiva
+* Componentização utilizando React
+* Estruturação de layout moderno
+* Navegação intuitiva para usuários
 
-# Step 3: Install the necessary dependencies.
-npm i
+## Desenvolvimento Frontend
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Durante o desenvolvimento foram realizados:
 
-**Edit a file directly in GitHub**
+* Construção de componentes reutilizáveis
+* Estruturação de páginas da plataforma
+* Desenvolvimento de layout responsivo
+* Organização de navegação e experiência do usuário
+* Integração entre componentes frontend
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Prototipação
 
-**Use GitHub Codespaces**
+O Lovable foi utilizado como apoio na geração do primeiro esboço visual da plataforma, auxiliando no processo inicial de prototipação e definição da interface.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Conceitos Aplicados
 
-## What technologies are used for this project?
+* Desenvolvimento Frontend com React
+* Estruturação de aplicações utilizando Vite
+* Componentização
+* Responsividade
+* Organização de layouts
+* Experiência do usuário (UI/UX)
+* Prototipação assistida por IA
 
-This project is built with:
+## Aprendizados
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Durante o desenvolvimento do projeto foram praticados conceitos relacionados a:
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/4b393769-a175-4435-8637-2f8c195a19ea) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+* Desenvolvimento de interfaces modernas
+* Estruturação de aplicações React
+* Organização de componentes reutilizáveis
+* Responsividade e adaptação para múltiplos dispositivos
+* Fluxos de navegação para plataformas educacionais
+* Utilização de ferramentas de IA como apoio no processo de prototipação
